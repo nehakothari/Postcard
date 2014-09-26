@@ -13,6 +13,8 @@
 		D39823D519D615DF001B3E97 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D39823D419D615DF001B3E97 /* Images.xcassets */; };
 		D39823D819D615DF001B3E97 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D39823D619D615DF001B3E97 /* LaunchScreen.xib */; };
 		D39823E419D615DF001B3E97 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39823E319D615DF001B3E97 /* PostcardTests.swift */; };
+		D39823EE19D6164A001B3E97 /* IMG_0171_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D39823ED19D6164A001B3E97 /* IMG_0171_2.jpg */; };
+		D39823F019D61657001B3E97 /* Fruit head.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D39823EF19D61657001B3E97 /* Fruit head.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		D39823DD19D615DF001B3E97 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D39823E219D615DF001B3E97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D39823E319D615DF001B3E97 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		D39823ED19D6164A001B3E97 /* IMG_0171_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0171_2.jpg; sourceTree = "<group>"; };
+		D39823EF19D61657001B3E97 /* Fruit head.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fruit head.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		D39823CB19D615DF001B3E97 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D39823EF19D61657001B3E97 /* Fruit head.jpg */,
+				D39823ED19D6164A001B3E97 /* IMG_0171_2.jpg */,
 				D39823CC19D615DF001B3E97 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				D39823D319D615DF001B3E97 /* Main.storyboard in Resources */,
 				D39823D819D615DF001B3E97 /* LaunchScreen.xib in Resources */,
 				D39823D519D615DF001B3E97 /* Images.xcassets in Resources */,
+				D39823F019D61657001B3E97 /* Fruit head.jpg in Resources */,
+				D39823EE19D6164A001B3E97 /* IMG_0171_2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
